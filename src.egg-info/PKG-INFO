@@ -1,0 +1,9 @@
+Metadata-Version: 2.4
+Name: src
+Version: 1.0.0
+Summary: An MLOps project for productionizing models
+Author: Vivek Kumar Singh
+Author-email: Vivek Kumar Singh <singhvivek12576@gmail.com>
+License-File: LICENSE
+Dynamic: author
+Dynamic: license-file
